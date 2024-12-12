@@ -8,7 +8,6 @@ This project involves performing Exploratory Data Analysis (EDA) and feature eng
 - [Features Analyzed](#features-analyzed)
 - [Insights Derived](#insights-derived)
 - [Steps Performed](#steps-performed)
-- [How to Use](#how-to-use)
 
 ## Overview
 
